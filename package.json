@@ -1,10 +1,11 @@
 {
   "name": "xml-tree",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "xml-dirtree ===========",
   "main": "index.js",
   "dependencies": {
-    "xml2js": "^0.4.4"
+    "xml2js": "^0.4.4",
+    "xmlbuilder":"*"
   },
   "devDependencies": {},
   "scripts": {
