@@ -1,17 +1,18 @@
 {
-  "name": "xml-dirtree",
+  "name": "xml-tree",
   "version": "0.0.1",
-  "description": "Generate a XML that contains all the paths and folders inside it.",
+  "description": "xml-dirtree ===========",
   "main": "index.js",
+  "dependencies": {
+    "xml2js": "^0.4.4"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/elribonazo/xml-dirtree.git"
-  },
-  "dependencies":{
-	"xml2js","*"
   },
   "author": "elribonazo <elribonazo@gmail.com>",
   "license": "ISC",
