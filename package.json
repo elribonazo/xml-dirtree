@@ -1,6 +1,6 @@
 {
   "name": "xml-tree",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "xml-dirtree ===========",
   "main": "index.js",
   "dependencies": {
